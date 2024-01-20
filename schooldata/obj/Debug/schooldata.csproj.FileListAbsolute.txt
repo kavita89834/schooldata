@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\mphasis\phase-3\schooldata\schooldata\bin\Debug\schooldata.dll
+C:\Users\HP\Documents\mphasis\phase-3\schooldata\schooldata\bin\Debug\schooldata.pdb
+C:\Users\HP\Documents\mphasis\phase-3\schooldata\schooldata\obj\Debug\schooldata.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\mphasis\phase-3\schooldata\schooldata\obj\Debug\schooldata.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\mphasis\phase-3\schooldata\schooldata\obj\Debug\schooldata.dll
+C:\Users\HP\Documents\mphasis\phase-3\schooldata\schooldata\obj\Debug\schooldata.pdb
